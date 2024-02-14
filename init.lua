@@ -80,6 +80,6 @@ return {
     --   pattern = {
     --     ["~/%.config/foo/.*"] = "fooscript",
     --   },
-    -- }
+   -- }
   end,
 }
